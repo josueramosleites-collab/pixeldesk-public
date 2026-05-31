@@ -1,0 +1,20 @@
+name: 💡 Feature idea (small)
+description: Small suggestion for the product or docs
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Big ideas → use [Discussions](https://github.com/josueramosleites-collab/pixeldesk-public/discussions/categories/ideas).
+        Small + concrete → here.
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What + why + who benefits
+    validations:
+      required: true
+  - type: textarea
+    id: alternative
+    attributes:
+      label: What you tried instead (workaround)

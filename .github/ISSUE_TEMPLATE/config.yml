@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discuss with the community
+    url: https://github.com/josueramosleites-collab/pixeldesk-public/discussions
+    about: Questions, ideas, show & tell — Discussions is the right place
+  - name: 🌐 Bug on pixeldesk.ai site itself
+    url: https://pixeldesk.ai/contato
+    about: For issues on the live site, use the contact form

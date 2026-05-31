@@ -1,0 +1,29 @@
+name: 🔌 New integration recipe
+description: Share how you connected a specific agent / tool to PixelDesk
+labels: ["integration", "good-first-pr"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got Aider / Continue / LangGraph / your favorite tool talking to PixelDesk?
+        Share the recipe — we'll add it to CONNECT-AGENT.md and credit you.
+  - type: input
+    id: tool
+    attributes:
+      label: Which tool / agent?
+      placeholder: "Aider / LangChain / n8n / Make / custom Python script"
+    validations:
+      required: true
+  - type: textarea
+    id: code
+    attributes:
+      label: Working code / config
+      description: Paste the working snippet — env var setup, config file, code
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Gotchas you hit
+      description: What surprised you. What you'd warn someone else about.

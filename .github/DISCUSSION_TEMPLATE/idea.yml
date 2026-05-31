@@ -1,0 +1,18 @@
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: markdown
+    attributes:
+      value: "Got a feature idea or feedback? Let's talk."
+  - type: textarea
+    id: idea
+    attributes:
+      label: The idea
+      description: What you want + why it matters
+    validations:
+      required: true
+  - type: textarea
+    id: scenario
+    attributes:
+      label: When would you use it?
+      description: Describe the concrete moment / workflow

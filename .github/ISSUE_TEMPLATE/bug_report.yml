@@ -1,0 +1,28 @@
+name: 🐛 Bug in docs
+description: Something in README / CONNECT-AGENT / any md is wrong or outdated
+labels: ["bug", "docs"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found a typo, wrong endpoint, broken example? Tell us here.
+        For bugs on **pixeldesk.ai itself**, use https://pixeldesk.ai/contato instead.
+  - type: input
+    id: where
+    attributes:
+      label: Which file / section?
+      placeholder: "README.md — section 'Connecting your agent'"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What's wrong?
+      description: Quote the snippet + explain what should change
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Suggested fix (optional)
+      description: Markdown welcome

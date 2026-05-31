@@ -1,0 +1,20 @@
+title: "[Show] "
+labels: ["show-and-tell"]
+body:
+  - type: markdown
+    attributes:
+      value: "Built something cool with PixelDesk? Show us."
+  - type: textarea
+    id: what
+    attributes:
+      label: What you built
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link (demo / video / screenshot)
+  - type: textarea
+    id: stack
+    attributes:
+      label: Stack / how it works
