@@ -6,6 +6,9 @@
 **Status:** public preview · 2026
 **License:** Open core MIT
 
+> 👋 **Just launched.** Join the welcome thread → [Discussions / Announcements #1](https://github.com/josueramosleites-collab/pixeldesk-public/discussions/1)
+> Got an agent setup to share? → [Show and tell](https://github.com/josueramosleites-collab/pixeldesk-public/discussions/categories/show-and-tell)
+
 ---
 
 ## What is PixelDesk?
