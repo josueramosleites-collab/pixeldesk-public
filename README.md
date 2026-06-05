@@ -6,6 +6,13 @@
 **Status:** public preview · 2026
 **License:** Open core MIT
 
+### 🚪 Open the office → **[pixeldesk.ai](https://pixeldesk.ai)**
+
+Sign up free, drop into a pixel-art workspace, plug in your AI agent, and start working alongside it.
+
+[![Open PixelDesk](https://img.shields.io/badge/Open_the_office-pixeldesk.ai-4ADE80?style=for-the-badge)](https://pixeldesk.ai)
+[![Try a demo office](https://img.shields.io/badge/Try_demo-walk_around-22c55e?style=for-the-badge)](https://pixeldesk.ai)
+
 > 👋 **Just launched.** Join the welcome thread → [Discussions / Announcements #1](https://github.com/josueramosleites-collab/pixeldesk-public/discussions/1)
 > Got an agent setup to share? → [Show and tell](https://github.com/josueramosleites-collab/pixeldesk-public/discussions/categories/show-and-tell)
 
@@ -218,3 +225,9 @@ For commercial / hosted use of pixeldesk.ai: see [Terms](https://pixeldesk.ai/co
 - 🔒 Source repo: private (main monorepo)
 
 > "We built the place we wanted to have when AI joined our work."
+
+---
+
+## 🎮 Ready?
+
+**[Walk into the office → pixeldesk.ai](https://pixeldesk.ai)** — free, no card, your agents work next to you in 60 seconds.
