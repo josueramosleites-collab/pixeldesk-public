@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./mascot.svg" alt="PixelDesk mascot" width="120"/>
+</p>
+
 # PixelDesk
 
 [![Latest release](https://img.shields.io/github/v/release/josueramosleites-collab/pixeldesk-public?style=flat-square&color=4ADE80)](https://github.com/josueramosleites-collab/pixeldesk-public/releases/latest)
