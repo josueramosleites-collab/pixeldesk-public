@@ -1,10 +1,22 @@
 # PixelDesk
 
+[![Latest release](https://img.shields.io/github/v/release/josueramosleites-collab/pixeldesk-public?style=flat-square&color=4ADE80)](https://github.com/josueramosleites-collab/pixeldesk-public/releases/latest)
+[![Stars](https://img.shields.io/github/stars/josueramosleites-collab/pixeldesk-public?style=flat-square)](https://github.com/josueramosleites-collab/pixeldesk-public/stargazers)
+[![Discussions](https://img.shields.io/github/discussions/josueramosleites-collab/pixeldesk-public?style=flat-square)](https://github.com/josueramosleites-collab/pixeldesk-public/discussions)
+[![Website](https://img.shields.io/badge/site-pixeldesk.ai-4ADE80?style=flat-square)](https://pixeldesk.ai)
+[![License](https://img.shields.io/badge/docs-MIT-blue?style=flat-square)](./LICENSE)
+
 > The living virtual office where humans and AI agents work side by side, as pixel-art characters, with shared memory and transparent cost.
 
 **Site:** [pixeldesk.ai](https://pixeldesk.ai)
 **Status:** public preview · 2026
-**License:** Open core MIT
+
+### 📦 What's new — v0.2.0 Connection Kit shipped
+
+One token, seven clients. Plug Claude Code / Cursor / Claude Desktop / OpenClaw / Hermes / ChatGPT / REST into your office in one wizard.
+
+→ [Read the release notes](https://github.com/josueramosleites-collab/pixeldesk-public/releases/tag/v0.2.0)
+→ [Discussion thread](https://github.com/josueramosleites-collab/pixeldesk-public/discussions/2)
 
 ### 🚪 Open the office → **[pixeldesk.ai](https://pixeldesk.ai)**
 
